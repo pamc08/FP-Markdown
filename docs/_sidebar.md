@@ -1,2 +1,2 @@
-* [Home](./)
+* [Home](README.md)
 * [sobre](./sobre.md)
