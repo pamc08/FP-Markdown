@@ -11,9 +11,7 @@
 - Python
 - ...
 
-### Rotas das páginas:
 
- [`docs/README.md`]
 
 > Metodologias de Desenvolvimento de Software @ 2020
 
